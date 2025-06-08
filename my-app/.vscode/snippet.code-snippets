@@ -1,0 +1,17 @@
+{
+  "React Functional Component with Filename (JSX)": {
+    "prefix": "rfc",
+    "body": [
+      "const ${1:${TM_FILENAME_BASE}} = () => {",
+      "  return (",
+      "    <div>",
+      "      <h1>${2:${TM_FILENAME_BASE}} Component</h1>",
+      "    </div>",
+      "  );",
+      "};",
+      "",
+      "export default ${1};"
+    ],
+    "description": "React functional component with current file name as component name (JavaScript)"
+  }
+}
