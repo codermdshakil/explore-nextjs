@@ -1,5 +1,7 @@
+
 const DynamicProductPage = async ({ params }) => {
   const { productId } = await params;
+
 
   // console.log(productId, "from dynamic page");
   // console.log(typeof productId, "from dynamic page");
