@@ -2,6 +2,11 @@ import Image from "next/image";
 
 import image from '@/assets/next.webp';
 
+export const metadata = {
+  title:"Gallery",
+  description:"This is gallery descriptions"
+}
+
 
 const GalleryPage = () => {
   return (

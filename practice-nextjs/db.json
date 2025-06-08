@@ -1,0 +1,64 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Nike Air Max 270",
+      "description": "Lightweight sneakers with breathable mesh and Air Max cushioning for all-day comfort.",
+      "price": 160
+    },
+    {
+      "id": 2,
+      "title": "Adidas Ultraboost 22",
+      "description": "High-performance running shoes with responsive Boost midsole and Primeknit upper.",
+      "price": 18
+    },
+    {
+      "id": 3,
+      "title": "Puma RS-X3",
+      "description": "Bold and retro-inspired shoes with extra cushioning and striking color combos.",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "title": "New Balance 574",
+      "description": "Classic silhouette combining retro style with everyday comfort and durability.",
+      "price": 85
+    },
+    {
+      "id": 5,
+      "title": "Reebok Nano X2",
+      "description": "Cross-training shoes built for stability, flexibility, and grip during workouts.",
+      "price": 130
+    },
+    {
+      "id": 6,
+      "title": "Converse Chuck Taylor All Star",
+      "description": "Iconic canvas high-top sneakers with a timeless street style appeal.",
+      "price": 60
+    },
+    {
+      "id": 7,
+      "title": "ASICS Gel-Kayano 30",
+      "description": "Premium running shoes offering advanced support and shock absorption.",
+      "price": 160
+    },
+    {
+      "id": 8,
+      "title": "Vans Old Skool",
+      "description": "Skate-inspired low-top shoes with durable canvas and signature side stripe.",
+      "price": 70
+    },
+    {
+      "id": 9,
+      "title": "Under Armour HOVR Phantom 3",
+      "description": "Performance trainers with soft HOVR foam for maximum energy return.",
+      "price": 140
+    },
+    {
+      "id": 10,
+      "title": "Jordan 1 Mid",
+      "description": "Basketball-inspired sneakers combining legendary design with street-ready style.",
+      "price": 125
+    }
+  ]
+}
