@@ -1,0 +1,26 @@
+{
+  "workbench.colorTheme": "Learn with Sumit Theme",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "Fira Code, JetBrains Mono, monospace",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  },
+  "files.autoSave": "onFocusChange",
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "javascript.suggest.autoImports": true,
+  "cSpell.words": [
+    "Adlv",
+    "cmdk",
+    "embla",
+    "fnfteam",
+    "forex",
+    "IMGBB",
+    "shakil",
+    "sonner",
+    "turbopack",
+    "vaul"
+  ],
+}
