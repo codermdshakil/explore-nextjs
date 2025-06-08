@@ -1,8 +1,12 @@
+
+import styles from './About.module.css';
+
+
 const AboutPage = () => {
   return (
     <div>
       <div className="container">
-        <h3>This is about page</h3>
+        <h3 className={styles.heading}>This is about page</h3>
       </div>
     </div>
   );
